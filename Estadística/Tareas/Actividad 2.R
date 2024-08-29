@@ -65,9 +65,6 @@ RIC
   75% 
 221.5 
 ran_inter=mdn[4]-mdn[2]
-Error: object 'mdn' not found
-mdn = median(x)
-ran_inter=mdn[4]-mdn[2]
 ran_inter
 [1] NA
 # Coeficiente de Variación
